@@ -1,0 +1,16 @@
+{
+  "name": "spa",
+  "version": "1.0.0",
+  "description": "sample",
+  "scripts": {
+    "build": "grunt"
+  },
+  "author": "hrkksm10",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-requirejs": "^1.0.0",
+    "grunt-shell": "^2.1.0",
+    "typescript": "^2.6.2"
+  }
+}
